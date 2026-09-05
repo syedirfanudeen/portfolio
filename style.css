@@ -1483,6 +1483,7 @@ body {
     body {
         margin: 0;
         padding: 0;
+        zoom: 0.9;
     }
 
     /* Main page content */
