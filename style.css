@@ -769,6 +769,19 @@ ul {
     font-family: "Constantia", serif !important;
     font-size: 20px;
 }
+.project-link {
+    display: block;
+    margin-top: 20px;
+    font-family: "Constantia", serif;
+    font-size: 16px;
+    color: var(--accent);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
 
 .project-placeholder .project-link {
     display: block;
